@@ -1,0 +1,28 @@
+1.mkdir-mega dliyaul auliya
+2.mkdir-sekolah
+mkdir-kerja
+3.cd sekolah
+-touch ijazah.txt
+nano ijazah.txt 
+(Perkenalkan namaku Mega dliyaul Auliya
+Aku berasal dari kota Cimahi
+Salam Kenal)
+-touch portofolio.txt
+nano portofolii.txt
+saya pernah bekerja di perusahaan salah satu diantaranya ialah
+samsung
+politron
+Lg
+4. cd ..
+5. cd kerja
+-touch cv.txt
+-nano cv.txt
+ Salam,
+perkenalkan namaku Mega Dliyaul Auliya, saya memiliki kegemaran
+Mendengarkan musik
+Menonton Film
+Bernyanyi
+6. cd ..
+-cd sekolah
+- mv portofolio.txt kerja
+
